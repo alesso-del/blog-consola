@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "titulo": "Primeros pasos con Python",
+        "contenido": "Cómo empezar a programar con variables y colecciones en Python.",
+        "autor": {
+            "nombre": "Alessandro Del Valle",
+            "bio": "Estudiante de marketing digital e inteligencia artificial que aprende Python.",
+            "especialidad": "Tecnología y creación de contenido",
+            "redes_sociales": [
+                "LinkedIn",
+                "Instagram"
+            ]
+        },
+        "categoria": "Programación",
+        "tags": [
+            "Python"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Qué es Django y para qué sirve",
+        "contenido": "Django es un framework de Python para desarrollar aplicaciones web.",
+        "autor": {
+            "nombre": "Alessandro Del Valle",
+            "bio": "Estudiante de marketing digital e inteligencia artificial que aprende Python.",
+            "especialidad": "Tecnología y creación de contenido",
+            "redes_sociales": [
+                "LinkedIn",
+                "Instagram"
+            ]
+        },
+        "categoria": "Desarrollo web",
+        "tags": [
+            "Python",
+            "Django",
+            "Web"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Organizar datos con listas y diccionarios",
+        "contenido": "Las listas y los diccionarios permiten organizar los datos del blog.",
+        "autor": {
+            "nombre": "Alessandro Del Valle",
+            "bio": "Estudiante de marketing digital e inteligencia artificial que aprende Python.",
+            "especialidad": "Tecnología y creación de contenido",
+            "redes_sociales": [
+                "LinkedIn",
+                "Instagram"
+            ]
+        },
+        "categoria": "Estructuras de datos",
+        "tags": [
+            "Python",
+            "Datos"
+        ],
+        "estado": "archivado"
+    }
+]
